@@ -22,7 +22,7 @@
     }
 
     body#maintop {
-        background-position: 0px 110px;
+        background-color: #8470FF;
     }
 
     #logoA {
@@ -32,7 +32,6 @@
 
     div#maincenter{
         position: relative;
-        top: 85px;
         margin: 0 auto;
         text-align: center;
     }
@@ -52,7 +51,7 @@
     }
 
     #main {
-        margin: 90px auto;
+        margin-top: 5px;
         color: #333333;
     }
 
