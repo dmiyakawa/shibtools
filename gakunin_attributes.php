@@ -22,8 +22,6 @@
     }
 
     body#maintop {
-        background-color: #CCFFCC;
-        background-repeat: repeat-x;
         background-position: 0px 110px;
     }
 
@@ -45,12 +43,12 @@
 
     strong#logintitle {
         font-size: 11px;
-        color: #FFFFFF;
+        color: #000000;
     }
 
     strong#loginname {
         font-size: 12px;
-        color: #FFFFFF;
+        color: #FF0000;
     }
 
     #main {
