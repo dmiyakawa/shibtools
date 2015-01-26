@@ -22,7 +22,7 @@
     }
 
     body#maintop {
-        background-color: #8470FF;
+        background-color: #CCFFCC;
     }
 
     #logoA {
@@ -61,7 +61,7 @@
         border-style: solid;
         border-width: 3px;
         border-collapse: collapse;
-        border-color: #006633;
+        border-color: #003300;
     }
 
     th.chart {
