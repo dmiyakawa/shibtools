@@ -22,7 +22,7 @@
     }
 
     body#maintop {
-        background-image: url('https://www.gakunin.jp/docs/files/bg2.jpg');
+        background-color: #CCFFCC;
         background-repeat: repeat-x;
         background-position: 0px 110px;
     }
@@ -112,10 +112,6 @@
     </style>
   </head>
   <body id="maintop">
-
-    <img id="logoA" src="https://www.gakunin.jp/docs/files/GakuNin_logo_yoko-small.png">
-    <br>
-
     <div id="maincenter">
       <strong id="logintitle">属性受信の確認ページ</strong><br>
 <?php
